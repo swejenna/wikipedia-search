@@ -1,5 +1,15 @@
 # WikipediaSearch
 
+Welcome to my mini wikiSearch!
+Some photos of it in action:
+<img width="1247" height="845" alt="Screenshot 2025-09-17 at 3 49 07 PM" src="https://github.com/user-attachments/assets/d8f1caef-2f74-4f8e-8810-c7ef270d042f" />
+<img width="1162" height="850" alt="Screenshot 2025-09-17 at 3 49 26 PM" src="https://github.com/user-attachments/assets/ab98ff6a-150c-4f30-b6d3-f916fe4d8b22" />
+<img width="1168" height="844" alt="Screenshot 2025-09-17 at 3 49 53 PM" src="https://github.com/user-attachments/assets/c402d786-d6e0-4b64-a5e8-4f1c31276e1f" />
+
+
+
+## Info
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
 
 ## Development server
